@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name = "GCDiscreetNotificationView"
-s.version = "0.1"
+s.version = "1.0.2"
 s.summary = "A discreet, non-modal, notification view for iOS. http://gcamp.ca"
 s.description = <<-DESC
 DESC
